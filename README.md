@@ -18,16 +18,16 @@
 
 ### 配置内容
 
-[1. 编辑器的背景设置](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting1)
+    [1. 编辑器的背景设置](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting1)
 
-[2. 左侧菜单栏文字大小调整](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting2)
+    [2. 左侧菜单栏文字大小调整](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting2)
 
-[3. 右侧编辑器文字大小以及字体样式](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting3)
+    [3. 右侧编辑器文字大小以及字体样式](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting3)
 
-4. 开发快捷键修改
+    [4. 开发快捷键修改](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting4)
 
-5. 终端快捷方式
+    [5. 终端快捷方式](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting5)
 
-[6. 15个有效插件安装](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting6)
+    [6. 15个有效插件安装](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting6)
 
-7. [7. 配置npn run dev 启动器](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting7)
+    [7. 配置npn run dev 启动器](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting7)
