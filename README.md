@@ -28,6 +28,6 @@
 
 5. 终端快捷方式
 
-6. 15个有效插件安装
+[6. 15个有效插件安装](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting6)
 
 7. 配置npn run dev 启动器
