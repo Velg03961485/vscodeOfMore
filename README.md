@@ -22,7 +22,7 @@
 
 [2. 左侧菜单栏文字大小调整](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting2)
 
-3. 右侧编辑器文字大小以及字体样式
+[3. 右侧编辑器文字大小以及字体样式](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting3)
 
 4. 开发快捷键修改
 
