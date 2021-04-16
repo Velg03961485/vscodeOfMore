@@ -31,3 +31,5 @@
 [6. 15个有效插件安装](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting6)
 
 [7. 配置npn run dev 启动器](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting7)
+
+[8. 打开多个标签页](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting8)
