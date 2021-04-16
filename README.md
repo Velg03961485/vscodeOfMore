@@ -36,4 +36,4 @@
 
 [9. 通过文件名搜索文件（vue/js/css等）](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting9)
 
-[10. 通过文件名搜索文件（vue/js/css等）](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting10)
+[10. 快捷指令大全（补充中···））](https://github.com/Velg03961485/vscodeOfMore/tree/main/setting10)
